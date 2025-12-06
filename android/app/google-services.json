@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "414568517796",
+    "project_id": "anime-verse-ea728",
+    "storage_bucket": "anime-verse-ea728.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414568517796:android:7f91ab8df064fccc949631",
+        "android_client_info": {
+          "package_name": "com.example.howdidifail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414568517796-068dgbjhbuu7ad5keihgt2t2lnu4gbfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.howdidifail",
+            "certificate_hash": "6b6753240074c89a22611b9201cd2ab3e1687f05"
+          }
+        },
+        {
+          "client_id": "414568517796-k2cfmq2e5dcpdhe8dvho4dfdgo8e2sc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.howdidifail",
+            "certificate_hash": "622a18bcaf35634b29e132490ddb7eacc68f2d14"
+          }
+        },
+        {
+          "client_id": "414568517796-asle3h166a37u3onuis2bne312glr3v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3HnAm9xLE68gj4auY7EFUhHmN_0B_wfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414568517796-asle3h166a37u3onuis2bne312glr3v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
