@@ -1,4 +1,4 @@
-# 🌟 AnimeVerse: Mobile Anime Discovery & Collection 
+# AnimeVerse
 
 **Aplikasi mobile berbasis Flutter untuk menjelajahi dan mengelola koleksi anime favorit Anda.**
 
@@ -57,3 +57,4 @@ AnimeVerse adalah aplikasi mobile yang dikembangkan menggunakan framework **Flut
 Tonton demo lengkap aplikasi AnimeVerse di YouTube:
 
 [https://youtu.be/ACZnm2WkB1U](https://youtu.be/ACZnm2WkB1U)
+
